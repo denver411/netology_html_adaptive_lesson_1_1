@@ -1,0 +1,19 @@
+.trophy {
+  width: 32%;
+  margin-left: 34%;
+  margin-right: 34%;
+  margin-bottom: 30px;
+}
+
+/* .trophy:nth-child(3n+2) {
+  
+} */
+
+.trophies {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.container {
+  min-width: 1024px;
+}
